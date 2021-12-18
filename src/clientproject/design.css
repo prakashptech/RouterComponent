@@ -1,0 +1,11 @@
+body small {
+    color :grey;
+}
+.btn {
+    width: 500px;
+    height: 30px;
+    border:rgb(46, 185, 231) 2px solid;
+    background-color: white;
+    color:rgb(44, 175, 219);
+    
+}
